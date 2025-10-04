@@ -1,0 +1,11 @@
+flask
+werkzeug
+PyPDF2
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-perplexity
+
+# -e .
