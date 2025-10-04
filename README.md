@@ -62,11 +62,11 @@ Set up API keys in your environment variables:
 ---
 
 ## Project Structure
-├── app.py # Main Flask application
-├── requirements.txt # Python dependencies
-├── setup.py # Package setup configuration
-├── uploads/ # Folder for storing uploaded PDF resumes
-└── templates/ # HTML templates for rendering web pages
+- ├── app.py # Main Flask application
+- ├── requirements.txt # Python dependencies
+- ├── setup.py # Package setup configuration
+- ├── uploads/ # Folder for storing uploaded PDF resumes
+- └── templates/ # HTML templates for rendering web pages
 
 
 ---
@@ -82,5 +82,6 @@ Email: santosh.iitk7@gmail.com
 
 This project is licensed under the MIT License.
     
+
 
 
