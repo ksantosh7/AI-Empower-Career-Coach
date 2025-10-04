@@ -20,6 +20,9 @@ It leverages LangChain integrations with OpenAI, Perplexity, and HuggingFace emb
 - Modular LLM provider setup with extensible support for multiple models
 
 ---
+## Architecture
+<img width="725" height="265" alt="ca" src="https://github.com/user-attachments/assets/5fdf3634-768b-4cd5-a4b5-e4010e1068f3" />
+
 
 ## Installation
 
@@ -82,6 +85,7 @@ Email: santosh.iitk7@gmail.com
 
 This project is licensed under the MIT License.
     
+
 
 
 
